@@ -1,0 +1,2 @@
+# mailchimp-linkcover
+Link Cover
